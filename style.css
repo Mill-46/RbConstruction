@@ -404,6 +404,7 @@ header {
   
   .card-blog {
   overflow: hidden;
+  position: relative;
   }
   
   .card-blog .blog {
